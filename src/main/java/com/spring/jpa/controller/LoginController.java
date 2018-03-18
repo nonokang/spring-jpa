@@ -31,4 +31,5 @@ public class LoginController {
 		ModelAndView mav = new ModelAndView("index");
 		return mav;
 	}
+	
 }
